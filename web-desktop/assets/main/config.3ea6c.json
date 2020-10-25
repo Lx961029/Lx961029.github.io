@@ -1,0 +1,82 @@
+{
+    "paths": {},
+    "uuids": [
+        "0fDZv5xxhKsL0g96S/5ZCc",
+        "15h+yJWq5OHKnqEMZ7LqOn",
+        "3czVsM/UJDYIs9MOnNkz5t",
+        "4fNQzDXFFHJI48KzZj/nUS",
+        "5dzZnLd6RMlafYS1tFKVrl",
+        "5en6mhxqBPy5yri/ItScdx",
+        "78t4U8PCdElJs/vvs1KJVI",
+        "a1ny3PD1BCaLOgu9wUkvsW",
+        "aaWbBIb3lEwJ5Lz+KEd1Vw",
+        "c1iPoJDxlDyowE6AhPkUh7",
+        "c2jcKFuV5KHZIpU2kY/nfy",
+        "c75/UFDo9Onr0P5yj4+tjo",
+        "d3mniGpGpAdZ3KNy8ZLprC",
+        "ebUU9fRyVBuJVoJkPkryhx",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "fbszyQOitFgZHAtFybidsw"
+    ],
+    "scenes": {
+        "db://assets/game.fire": "5dzZnLd6RMlafYS1tFKVrl"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "01c6ab645": [
+            "0fDZv5xxhKsL0g96S/5ZCc",
+            "15h+yJWq5OHKnqEMZ7LqOn",
+            "a1ny3PD1BCaLOgu9wUkvsW",
+            "c2jcKFuV5KHZIpU2kY/nfy",
+            "c75/UFDo9Onr0P5yj4+tjo"
+        ],
+        "0c59784c4": [
+            "3czVsM/UJDYIs9MOnNkz5t",
+            "4fNQzDXFFHJI48KzZj/nUS",
+            "5dzZnLd6RMlafYS1tFKVrl",
+            "5en6mhxqBPy5yri/ItScdx",
+            "78t4U8PCdElJs/vvs1KJVI",
+            "aaWbBIb3lEwJ5Lz+KEd1Vw",
+            "c1iPoJDxlDyowE6AhPkUh7",
+            "d3mniGpGpAdZ3KNy8ZLprC",
+            "ebUU9fRyVBuJVoJkPkryhx",
+            "fbszyQOitFgZHAtFybidsw"
+        ]
+    },
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "01c6ab645",
+            "8e95d",
+            "0c59784c4",
+            "0036d"
+        ],
+        "native": [
+            "0fDZv5xxhKsL0g96S/5ZCc",
+            "c1880",
+            "15h+yJWq5OHKnqEMZ7LqOn",
+            "ab2da",
+            "5en6mhxqBPy5yri/ItScdx",
+            "fe7c9",
+            "a1ny3PD1BCaLOgu9wUkvsW",
+            "5fdc8",
+            "c2jcKFuV5KHZIpU2kY/nfy",
+            "0c3cd",
+            "c75/UFDo9Onr0P5yj4+tjo",
+            "c0cb3",
+            "ebUU9fRyVBuJVoJkPkryhx",
+            "74fd1"
+        ]
+    }
+}
